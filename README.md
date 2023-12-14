@@ -21,7 +21,7 @@ CESPU, CRL, Gandra, Portugal;
 
 <sup>5</sup> Clover Bioanalytical Software, Granada, Spain;
 
-<sup>6</sup> Hospital Pedro Hispano, Matosinhos, Portugal;
+<sup>6</sup> Clinical Microbiology Laboratory, Local Healthcare Unit, Matosinhos, Portugal;
 
 <sup>7</sup> Unidad Clínica de Enfermedades Infecciosas y Microbiología. Hospital Universitario Vírgen
 Macarena. Instituto de Biomedicina de Sevilla (IBIS; CSIC/Hospital Virgen
