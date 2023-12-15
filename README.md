@@ -1,5 +1,7 @@
 # Development and validation of a quick, automated and reproducible ATR FT-IR spectroscopy machine-learning model for Klebsiella pneumoniae typing
 
+[![DOI](https://zenodo.org/badge/731622889.svg)](https://zenodo.org/doi/10.5281/zenodo.10390499)
+
 This paper has been submitted for publication in Journal of Clinical Microbiology [https://journals.asm.org/journal/jcm](https://journals.asm.org/journal/jcm).
 
 ## Authors
